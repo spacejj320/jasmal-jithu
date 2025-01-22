@@ -2,9 +2,6 @@
 title: Kickoff
 subtitle: storytelling starts here, the good bad and the ugly
 date: 2024-12-20T14:46:51+05:30
-categories:
-  - First category
-  - Second category
 tags:
   - First tag
   - Second tag
