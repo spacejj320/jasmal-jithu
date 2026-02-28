@@ -13,7 +13,7 @@ I wasn't always lost.
 
 As a child, I was good—studious, active, curious, full of energy. I did well in school, stayed involved, and carried that quiet confidence that life was moving in the right direction. Somewhere along the way, though, things changed.
 
-Not all at once. Slowly.
+Not all at once. Slowly..
 
 Bad habits crept in. Small choices stacked up. And before I understood what was happening, I found myself in situations no fifteen-year-old should ever have to carry. Incidents that hardened me too early. Pain that turned into rebellion. Silence that turned into anger.
 
