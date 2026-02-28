@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Jasmal Jithu</title>
+    <link>https://example.org/tags/example/</link>
+    <description>Recent content in Example on Jasmal Jithu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2024 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://example.org/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo Post</title>
+      <link>https://example.org/posts/demo/</link>
+      <pubDate>Sat, 21 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://example.org/posts/demo/</guid>
+      <description>This is a demo post showcasing the structure and features of the blog. Perfect for understanding how posts are formatted and displayed.</description>
+    </item>
+  </channel>
+</rss>

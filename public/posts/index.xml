@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Jasmal Jithu</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Jasmal Jithu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2024 14:46:51 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 12:00:00 +0530</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>At Peace With Myself, At Last</title>
+      <link>https://example.org/posts/at-peace-with-myself-at-last/</link>
+      <pubDate>Sat, 21 Dec 2024 12:00:00 +0530</pubDate>
+      <guid>https://example.org/posts/at-peace-with-myself-at-last/</guid>
+      <description>A journey from being lost to finding peace—reflections on growth, meaning, and building a life worth living.</description>
+    </item>
+    <item>
+      <title>Demo Post</title>
+      <link>https://example.org/posts/demo/</link>
+      <pubDate>Sat, 21 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://example.org/posts/demo/</guid>
+      <description>This is a demo post showcasing the structure and features of the blog. Perfect for understanding how posts are formatted and displayed.</description>
+    </item>
     <item>
       <title>Kickoff</title>
-      <link>http://localhost:1313/posts/kickoff/</link>
+      <link>https://example.org/posts/kickoff/</link>
       <pubDate>Fri, 20 Dec 2024 14:46:51 +0530</pubDate>
-      <guid>http://localhost:1313/posts/kickoff/</guid>
+      <guid>https://example.org/posts/kickoff/</guid>
       <description>A brief summary of the post for the homepage preview.</description>
     </item>
   </channel>
