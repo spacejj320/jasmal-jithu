@@ -1,0 +1,24 @@
+<section class="list">
+  {{ partial "header" .Page }}
+
+  <div class="container">
+    {{- if .Page.IsHome -}}
+      {{- with .Page.Content -}}
+        <div class="homepage-intro">
+          {{ . | markdownify }}
+        </div>
+      {{- end -}}
+    {{- end }}
+    
+    <div class="content">
+    {{- $paginator := .Page.Paginate .pages -}}
+    {{- range $paginator.Pages }}
+      {{ .Page.Render "summary" }}
+    {{- end }}
+    </div>
+
+    <footer class="footer metadata">
+      {{ template "_internal/pagination.html" .Page }}
+    </footer>
+  </div>
+</section>

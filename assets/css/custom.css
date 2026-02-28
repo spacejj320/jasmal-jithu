@@ -1,0 +1,18 @@
+.homepage-intro {
+  font-size: var(--font-size);
+  line-height: var(--font-line-height);
+  margin-bottom: 4rem;
+  max-width: 60rem;
+}
+
+.homepage-intro p {
+  margin-bottom: 1.5rem;
+}
+
+.homepage-intro p:first-child {
+  margin-top: 0;
+}
+
+.homepage-intro p:last-child {
+  margin-bottom: 0;
+}
